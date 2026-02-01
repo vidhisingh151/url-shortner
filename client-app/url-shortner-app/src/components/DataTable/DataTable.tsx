@@ -72,7 +72,7 @@ const DataTable: React.FunctionComponent<IDataTableProps> = (props) => {
         <div className=" container mx-auto pt-2 pb-10">
             <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
                 <table className="w-full table-fixed text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 ">
-                    <thead className="text-md uppercase text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                    <thead className="text-md uppercase text-gray-700  bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                         <tr>
                             <th scope="col" className="px-6 py-3 w-6/12">
                                 Full URL
